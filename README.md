@@ -1,4 +1,5 @@
 "The workflow of this code follows a systematic approach to predict housing prices using linear regression. Here's an overview of the steps involved:-
+
 Data Cleaning: The code starts by cleaning the dataset, handling missing values, and dropping irrelevant columns. This ensures that the data is in a suitable format for analysis.
 Feature Engineering: Next, the code performs feature engineering to derive new features that can enhance the insights and predictive power of the model. Features like 'bhk' (bedrooms, hall, kitchen) and 'price_per_sqft' are created to provide additional information.
 Outlier Detection/Removal: The code identifies and removes outliers in key columns such as 'bhk' and 'price_per_sqft'. This step helps in eliminating data points that may significantly impact the model's performance.
